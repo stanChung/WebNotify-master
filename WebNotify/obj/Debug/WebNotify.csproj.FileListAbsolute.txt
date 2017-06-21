@@ -32,8 +32,6 @@ C:\Github\Repos\WebNotify-master\WebNotify\bin\System.Web.WebPages.Deployment.dl
 C:\Github\Repos\WebNotify-master\WebNotify\bin\System.Web.WebPages.dll
 C:\Github\Repos\WebNotify-master\WebNotify\bin\System.Web.WebPages.Razor.dll
 C:\Github\Repos\WebNotify-master\WebNotify\bin\WebGrease.dll
-C:\Github\Repos\WebNotify-master\WebNotify\bin\Microsoft.AspNet.SignalR.Core.xml
-C:\Github\Repos\WebNotify-master\WebNotify\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
 C:\Github\Repos\WebNotify-master\WebNotify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Github\Repos\WebNotify-master\WebNotify\bin\Microsoft.Owin.xml
 C:\Github\Repos\WebNotify-master\WebNotify\bin\Microsoft.Owin.Host.SystemWeb.xml
