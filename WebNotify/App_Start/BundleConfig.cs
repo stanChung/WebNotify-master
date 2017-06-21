@@ -11,7 +11,9 @@ namespace WebNotify
             bundles.Add(new ScriptBundle("~/bundles/jquery").Include(
                         "~/Scripts/jquery-{version}.js"
                         ));
-            bundles.Add(new ScriptBundle("~/bundles/easyUI").Include("~/Scripts/jquery.easyui-1.4.3.js"));
+            bundles.Add(new ScriptBundle("~/bundles/easyUI").Include(
+                        "~/Scripts/easyUI/jquery.easyui.min.js",
+                        "~/Scripts/easyUI/locale/easyui-lang-zh_TW.js"));
 
             bundles.Add(new ScriptBundle("~/bundles/jqueryval").Include(
                         "~/Scripts/jquery.validate*"));
