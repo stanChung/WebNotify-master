@@ -59,7 +59,7 @@ function GetData() {
                 oDatas.rows.forEach(function (e, i, a) {
                     var tmp = $.grep(data, function (n) { return (n.DataID == e.DataID && n.ReportOwner == uid); });//先以DataID找出資料
                     if (tmp.length > 0) {   //如果有相對應的資料
-                        if (e.IsComplete != tmp[0].IsComplete && tmp[0].IsComplete='true')  //是否已完成的狀態不一樣且狀態是true，就表示工作完成了
+                        if (e.IsComplete != tmp[0].IsComplete && tmp[0].IsComplete==='true')  //是否已完成的狀態不一樣且狀態是true，就表示工作完成了
                             wnHub.client.showNotify('親愛的' + uid + '，您的報表「' + e.ReportName + '」已經完成了');
                     }
                 });
