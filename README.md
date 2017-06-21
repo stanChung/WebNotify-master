@@ -1,6 +1,13 @@
 # WebNotify
-![ScreenShot](https://github.com/stanChung/WebNotify/blob/master/WebNotify_H.PNG)
+![ScreenShot](https://github.com/stanChung/WebNotify-master/blob/master/WebNotify_H.PNG)
   
+### **演示網址：**
+> - http://webnotify.apphb.com/home/index
+> - 使用者名稱可輸入 stan1或stan2
+> - 資料庫SERVER：fadaa9ed-0dc4-4011-adfc-a79900aaf3b6.sqlserver.sequelizer.com
+> - 資料庫User ID：kpmlhpiczokavapl
+> - 資料庫PWD：Fmo86fsrq3ue58RB3bMaFtwuB4CAwsEweRJrewJtrmjxqok7Y5gXuL4nX3DcJZ47
+
 ### **功能描述：**
 > - 使用 ASP.NET MVC/WebSocket/SqlDependecy
 > - 可辨識出連接上SERVER的使用者
