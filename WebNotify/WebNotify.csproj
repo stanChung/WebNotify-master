@@ -166,9 +166,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="bin\Microsoft.AspNet.SignalR.Core.dll" />
-    <Content Include="bin\Microsoft.AspNet.SignalR.Core.xml" />
     <Content Include="bin\Microsoft.AspNet.SignalR.SystemWeb.dll" />
-    <Content Include="bin\Microsoft.AspNet.SignalR.SystemWeb.xml" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\themes\black\accordion.css" />

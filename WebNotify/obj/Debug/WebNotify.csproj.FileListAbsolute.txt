@@ -58,6 +58,5 @@ C:\Github\Repos\WebNotify-master\WebNotify\bin\zh-Hant\System.Web.Razor.resource
 C:\Github\Repos\WebNotify-master\WebNotify\bin\zh-Hant\System.Web.WebPages.resources.dll
 C:\Github\Repos\WebNotify-master\WebNotify\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
 C:\Github\Repos\WebNotify-master\WebNotify\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
-C:\Github\Repos\WebNotify-master\WebNotify\obj\Debug\WebNotify.csprojResolveAssemblyReference.cache
 C:\Github\Repos\WebNotify-master\WebNotify\obj\Debug\WebNotify.dll
 C:\Github\Repos\WebNotify-master\WebNotify\obj\Debug\WebNotify.pdb
